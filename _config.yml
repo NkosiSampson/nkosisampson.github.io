@@ -1,3 +1,21 @@
+title: Nkosi Sampson
+email: Nkosisampson11@gmail.com
+description: >- 
+  This is Nkosi Sampson's portfolio website.
+baseurl: "/My-Website" # the subpath of your site, e.g. /blog
+url: "https://nkosisampson.github.io/My-Website" # the base hostname & protocol for your site
+LinkedIn_username: Nkosi Sampson
+github_username: NkosiSampson
+
+markdown: kramdown
+theme: minima
+
+# Navigation links
+nav_links:
+  - name: "CV/Resume"
+    link: "/resume.html"
+  - name: "Portfolio"
+    link: "/portfolio.html"
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -53,3 +71,4 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
