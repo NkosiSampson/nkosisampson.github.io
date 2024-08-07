@@ -14,10 +14,12 @@ theme: minima
 
 # Navigation links
 nav_links:
+  - name: "Home"
+    link: "/"
   - name: "CV/Resume"
-    link: "/resume.html"
+    link: "/resume.pdf"
   - name: "Portfolio"
-    link: "/portfolio.html"
+    link: "/portfolio"
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
