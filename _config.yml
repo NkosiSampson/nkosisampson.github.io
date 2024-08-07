@@ -17,7 +17,7 @@ nav_links:
   - name: "Home"
     link: "/"
   - name: "CV/Resume"
-    link: "/resume.pdf"
+    link: "/My-Website/resume.pdf"
   - name: "Portfolio"
     link: "/portfolio"
 # Welcome to Jekyll!
