@@ -17,9 +17,9 @@ nav_links:
   - name: "Home"
     link: "/"
   - name: "Portfolio"
-    link: "/portfolio"
+    link: "/portfolio.html"
   - name: "Resume"
-    link: "/resume"
+    link: "/resume.html"
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
