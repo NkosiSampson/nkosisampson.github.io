@@ -14,7 +14,7 @@ theme: minima
 
 # Navigation links
 nav_links:
-  - name: "Home"
+  - name: "About"
     link: "/"
   - name: "Portfolio"
     link: "/portfolio.html"
