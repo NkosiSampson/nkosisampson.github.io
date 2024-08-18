@@ -4,7 +4,7 @@ title: Nkosi Sampson
 email: Nkosisampson11@gmail.com
 description: >- 
   This is Nkosi Sampson's portfolio website.
-baseurl: "/My-Website" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://nkosisampson.github.io" # the base hostname & protocol for your site
 LinkedIn_username: Nkosi Sampson
 github_username: NkosiSampson
