@@ -12,8 +12,6 @@ theme: minima
 
 # Navigation links
 nav_links:
-  - name: "About"
-    link: "/"
   - name: "Portfolio"
     link: "/portfolio.html"
   - name: "Resume"
